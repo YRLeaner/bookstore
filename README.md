@@ -5,12 +5,11 @@
 整体采用servlet+jsp开发，使用SSH框架。
 前台 shudian.jsp
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/13.png)
+![Image text](https://github.com/sidan26/bookstore/tree/master/web/images/12.png)
 
 后台 index.jsp
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/13.png)
+![Image text](https://github.com/sidan26/bookstore/tree/master/web/images/13.png)
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/13.png)
+![Image text](https://github.com/sidan26/bookstore/tree/master/web/images/14.png)
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/13.png)
 
