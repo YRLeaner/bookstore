@@ -5,11 +5,11 @@
 整体采用servlet+jsp开发，使用SSH框架。
 前台 shudian.jsp
 
-![Image text](https://github.com/sidan26/bookstore/tree/master/raw/images/12.PNG)
+![Image](https://github.com/sidan26/bookstore/tree/master/raw/images/12.PNG)
 
 后台 index.jsp
-![Image text](https://github.com/sidan26/bookstore/tree/master/raw/images/13.PNG)
+![Image](https://github.com/sidan26/bookstore/tree/master/raw/images/13.PNG)
 
-![Image text](https://github.com/sidan26/bookstore/tree/master/raw/images/14.PNG)
+![Image](https://github.com/sidan26/bookstore/tree/master/raw/images/14.PNG)
 
 
